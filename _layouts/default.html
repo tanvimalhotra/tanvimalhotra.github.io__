@@ -1,15 +1,29 @@
+---
+layout: compress
+---
+
 <!DOCTYPE html>
 <html lang="en">
-  {% include head.html %}
-  <body>
-    {% include sidebar.html %}
-    <main>
-      <div class="container">
-        <div class="content">
-        {{ content }}
-        </div>
-        {% include footer.html %}
-      </div>
-    </main>
-  </body>
+
+    {% if page.title != 'index' %}
+        {% include head.html %}
+    {% else %}
+        {% include index_head.html %}
+    {% endif %}
+
+<body id="page-top" class="landing-page">
+
+    {% if page.title != 'index' %}
+        {% include blog_header.html %}
+    {% endif %}
+
+    {{ content }}
+
+    {% if page.title != 'index' %}
+        {% include foot.html %}
+    {% else %}
+        {% include index_foot.html %}
+    {% endif %}
+
+</body>
 </html>
