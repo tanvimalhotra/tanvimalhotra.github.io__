@@ -3,9 +3,9 @@
     "name": "Tanvi Malhotra",
     "label": "MS Information Management",
     "picture": "http://github.com/tanvimalhotra/tanvimalhotra.github.io/images/maberger.png",
-    "email": "maberger6@gmail.com",
+    "email": "tanvi3@illinois.edu",
     "website": "http://maberger.com",
-    "summary": "I'm a software developer from Ontario, Canada. I recently completed my BASc in Computer Engineering at the University of Waterloo and I'm looking for new opportunities. Working with both hardware and software on various platforms from embedded systems to mobile phones has broadened my experience, but you'll find me most at home developing for the web. I really enjoy building client-side web applications, and have a strong foundation in server-side development and working with databases. Consistency and clear communication have always been very important to me and I'm a quick learner who is always eager to pick up new technologies.",
+    "summary": "I'm a software developer from Champaign, Illinois. I am pursuing my MS in Information Technology at the University of Waterloo and I'm looking for new opportunities. Working with both hardware and software on various platforms from embedded systems to mobile phones has broadened my experience, but you'll find me most at home developing for the web. I really enjoy building client-side web applications, and have a strong foundation in server-side development and working with databases. Consistency and clear communication have always been very important to me and I'm a quick learner who is always eager to pick up new technologies.",
     "location": {
       "city": "Champaign",
       "countryCode": "USA",
@@ -19,8 +19,8 @@
       },
       {
         "network": "LinkedIn",
-        "username": "maberger",
-        "url": "https://ca.linkedin.com/in/maberger"
+        "username": "tanvi-malhotra",
+        "url": "https://linkedin.com/in/tanvi-malhotra"
       }
     ]
   },
@@ -178,6 +178,24 @@
   ],
   "skills": [
     {
+      "name": "Relational databases",
+      "keywords": [
+        "MySQL",
+        "SQL Server",
+        "PostgresSQL",
+        "SQLite"
+      ]
+    },
+    {
+      "name": "Object-oriented programming",
+      "keywords": [
+        "Python",
+        "Java",
+        "C++"
+      ]
+    },
+
+    {
       "name": "Front-end tech/frameworks",
       "keywords": [
         "HTML5",
@@ -196,24 +214,7 @@
         "ASP.NET"
       ]
     },
-    {
-      "name": "Relational databases",
-      "keywords": [
-        "MySQL",
-        "SQL Server",
-        "PostgresSQL",
-        "SQLite"
-      ]
-    },
-    {
-      "name": "Object-oriented programming",
-      "keywords": [
-        "Python",
-        "Java",
-        "VB.NET",
-        "C#"
-      ]
-    },
+   
     {
       "name": "Platforms",
       "keywords": [
